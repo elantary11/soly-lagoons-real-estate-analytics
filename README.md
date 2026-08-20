@@ -17,7 +17,7 @@ The project started with a simple business need: give the team a reliable view o
 
 The opening page establishes the commercial context of the development: North Coast, KM 90, the entry reservation amount, starting price, down-payment amount, and payment horizon. It is intentionally a clean project introduction rather than an operational KPI page, so a decision-maker understands the product before reading the performance views.
 
-![Soly Lagoons project overview](assets/soly-lagoons-overview.png)
+![Soly Lagoons project overview](soly-lagoons-overview.png)
 
 **Why it matters:** the page gives the sales and management conversation a shared product context. It helps separate the project's market proposition from the operational measures that follow.
 
@@ -27,7 +27,7 @@ The Unit Explorer replaces manual searching through scattered unit lists with on
 
 The supplied view shows 28 units in total: 6 sold, 12 reserved, and 10 available. That means 64.3% of the units are already sold or reserved, while 35.7% remain available.
 
-![Unit Explorer](assets/unit-explorer.png)
+![Unit Explorer](unit-explorer.png)
 
 **Business value:** sales can answer a customer's unit question faster, management can see the remaining stock spatially, and the team has a consistent status vocabulary instead of relying on separate spreadsheets or screenshots.
 
@@ -45,7 +45,7 @@ The displayed breakdown is:
 
 The headline cards on this page show 20.76M EGP sold value, a 21.4% sell-through rate, 40.26M EGP in reserved pipeline, and 35.21M EGP in available inventory. The monthly sold-value trend is included to help the team monitor whether sales activity is sustained or concentrated in a few periods.
 
-![Sales and inventory analytics](assets/sales-inventory-analytics.png)
+![Sales and inventory analytics](sales-inventory-analytics.png)
 
 **Decision use:** the reserved pipeline is the immediate conversion lever; the 1 Bedroom segment has the largest exposure with 5 available units and the lowest sell-through in the displayed mix; 2 Bedrooms carry the largest unit-type value; and Studios show the strongest sell-through and pipeline ratio in this view.
 
@@ -53,7 +53,7 @@ The headline cards on this page show 20.76M EGP sold value, a 21.4% sell-through
 
 The final page is written for an Arabic management review. It turns the report into an action brief rather than repeating chart labels. It brings together the main commercial signal, the most important watchouts, and a short list of priorities such as accelerating reserved-to-sold conversion, protecting the value contribution of 2 Bedrooms, and addressing the available 1 Bedroom stock.
 
-![Executive insights](assets/executive-insights.png)
+![Executive insights](executive-insights.png)
 
 **Decision use:** this page is the bridge between analysis and action. It gives leadership a reason for each priority, the number behind it, and a monitoring direction that can be reviewed in the next sales cycle.
 
